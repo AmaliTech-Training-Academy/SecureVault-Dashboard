@@ -87,4 +87,4 @@ This is a **hybrid design/engineering challenge**. You are expected to demonstra
 1.  **Fork** this repository.
 2.  Complete the code in your fork.
 3.  Update this `README.md` with your documentation.
-4.  Submit your repo link via the application form.
+4.  Submit your repo link via the online form.
